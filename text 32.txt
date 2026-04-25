@@ -1046,7 +1046,7 @@ local function runTPDown()
 end
 
 -- ============================================================
--- MAIN GUI (111 DUEL - Interface simplifiée)
+-- MAIN GUI (VINOM Duls - Interface simplifiée)
 -- ============================================================
 ;(function()
 local C_BG     = Color3.fromRGB(12, 12, 18)

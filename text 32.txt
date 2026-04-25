@@ -1142,7 +1142,7 @@ headerFix.BackgroundColor3 = C_CARD; headerFix.BorderSizePixel = 0; headerFix.ZI
 
 local titleLbl = Instance.new("TextLabel", header)
 titleLbl.Size = UDim2.new(1, -90, 1, 0); titleLbl.Position = UDim2.new(0, 14, 0, 0)
-titleLbl.BackgroundTransparency = 1; titleLbl.Text = "111 DUEL"
+titleLbl.BackgroundTransparency = 1; titleLbl.Text = "VINOM Duls"
 titleLbl.TextColor3 = C_WHITE; titleLbl.Font = Enum.Font.GothamBlack
 titleLbl.TextSize = getMobileOptimized(20, 16); titleLbl.TextXAlignment = Enum.TextXAlignment.Left; titleLbl.ZIndex = 4
 

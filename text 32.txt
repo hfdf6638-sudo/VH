@@ -1061,7 +1061,7 @@ local C_GREEN  = Color3.fromRGB(50, 200, 100)
 local sideSetters = {}
 
 gui = Instance.new("ScreenGui")
-gui.Name = "DuelHubGUI"; gui.ResetOnSpawn = false; gui.DisplayOrder = 10
+gui.Name = "VINOM Duls"; gui.ResetOnSpawn = false; gui.DisplayOrder = 10
 gui.Parent = LocalPlayer:WaitForChild("PlayerGui")
 
 -- PROGRESS BAR (steal indicator)

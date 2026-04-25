@@ -1904,5 +1904,5 @@ UserInputService.InputBegan:Connect(function(input, gpe)
     end
 end)
 
-print("✓ 111 DUEL loaded")
+print("✓ VINOM Duls loaded")
 end)()
